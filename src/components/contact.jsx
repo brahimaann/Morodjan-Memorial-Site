@@ -151,7 +151,7 @@ export const Contact = (props) => {
           <p>
             &copy; 2023 Morodjan Memorial Academy. Design by{" "}
             <a href="https://brahimaportfolio.netlify.app/" rel="nofollow">
-              Brahima Ann
+              Nrth Dvsn
             </a>
           </p>
         </div>
